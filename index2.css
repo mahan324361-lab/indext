@@ -3,7 +3,8 @@ body{
 }
 
 h1{
-    color:azure
+    color:azure;
+    cursor: pointer;
 }
 
 h2{
