@@ -15,3 +15,10 @@ h2{
 p{
     color: chartreuse;
 }
+
+
+#img1 {
+  display: block;
+  margin: auto;
+  width: 35%;
+}
